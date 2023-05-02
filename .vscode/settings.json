@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "Learn with Sumit Theme",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#0a3ada",
+    "activityBar.inactiveForeground": "#ffffff",
+    "titleBar.activeBackground": "#0a3ada",
+    "titleBar.activeForeground": "#ffffff"
+  }
+}
