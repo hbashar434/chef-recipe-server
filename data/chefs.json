@@ -2,7 +2,7 @@
   {
     "_id": "6450a5b7786fe791cf8eb55b",
     "picture": "https://shorturl.at/djqu8",
-    "name": "Gülçin Tan",
+    "name": "Gulcin Tan",
     "bio": "I am a Turkish chef specializing in traditional Anatolian cuisine, using fresh, local ingredients to create flavorful dishes that capture the essence of Turkish cuisine.",
     "experience": 15,
     "number_of_recipes": 100,
@@ -10,31 +10,22 @@
     "recipes": [
       {
         "recipe_name": "Lahmacun",
-        "ingredients": [
-          "ground beef",
-          "tomatoes",
-          "onion",
-          "bell pepper",
-          "pomegranate molasses"
-        ],
+        "image": "https://shorturl.at/jDKR3",
+        "ingredients": "ground beef, tomatoes, onion, bell pepper, pomegranate molasses .",
         "cooking_method": "1. Mix the ground beef with finely chopped tomatoes, onion, and bell pepper. 2. Add spices like paprika and cumin, as well as pomegranate molasses for a sweet and sour flavor. 3. Spread the mixture on flatbread and bake until crispy. 4. Serve with fresh herbs and lemon wedges.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Köfte",
-        "ingredients": ["ground lamb", "onion", "garlic", "cumin", "mint"],
+        "recipe_name": "Kofte",
+        "image": "https://shorturl.at/fkBCE",
+        "ingredients": "ground lamb, onion, garlic, cumin, mint .",
         "cooking_method": "1. Mix the ground lamb with finely chopped onion and garlic. 2. Add spices like cumin and mint, as well as salt and pepper to taste. 3. Shape the mixture into small balls or patties. 4. Grill or pan-fry until cooked through. 5. Serve with yogurt sauce and fresh herbs.",
         "rating": 4.2
       },
       {
         "recipe_name": "Baklava",
-        "ingredients": [
-          "phyllo dough",
-          "walnuts",
-          "sugar",
-          "cinnamon",
-          "honey"
-        ],
+        "image": "https://shorturl.at/jkorP",
+        "ingredients": "phyllo dough, walnuts, sugar, cinnamon,honey .",
         "cooking_method": "1. Mix finely chopped walnuts with sugar and cinnamon. 2. Layer sheets of phyllo dough with the walnut mixture, brushing melted butter in between. 3. Bake until golden brown. 4. Drizzle honey syrup over the baklava while still warm. 5. Let cool before serving.",
         "rating": 4.8
       }
@@ -52,25 +43,19 @@
     "recipes": [
       {
         "recipe_name": "Balık çorbası",
-        "ingredients": [
-          "fish fillets",
-          "potatoes",
-          "carrots",
-          "onion",
-          "lemon juice"
-        ],
+        "ingredients": "fish fillets, potatoes, carrots, onion,lemon juice .",
         "cooking_method": "1. Sauté finely chopped onion in olive oil until soft. 2. Add diced potatoes and carrots, and sauté for a few more minutes. 3. Add fish fillets and enough water to cover the ingredients. 4. Bring to a simmer and cook until the fish is cooked through. 5. Finish with lemon juice and fresh herbs.",
         "rating": 4.2
       },
       {
         "recipe_name": "Midye dolma",
-        "ingredients": ["mussels", "rice", "pine nuts", "currants", "spices"],
+        "ingredients": "mussels, rice, pine nuts, currants, spices .",
         "cooking_method": "1. Rinse mussels and remove the beards. 2. Cook rice and mix with pine nuts, currants, and spices. 3. Stuff the mixture into the mussels and close the shells. 4. Place the stuffed mussels in a baking dish and drizzle with olive oil. 5. Bake until the mussels are cooked through. 6. Serve with lemon wedges.",
         "rating": 4.5
       },
       {
         "recipe_name": "Kabak mücveri",
-        "ingredients": ["zucchini", "feta cheese", "flour", "eggs", "dill"],
+        "ingredients": "zucchini, feta cheese, flour, eggs, dill .",
         "cooking_method": "1. Grate zucchini and mix with crumbled feta cheese, flour, eggs, and chopped dill. 2. Season with salt and pepper to taste. 3. Heat oil in a frying pan and drop spoonfuls of the mixture into the pan. 4. Fry until golden brown on both sides. 5. Drain on paper towels before serving.",
         "rating": 4.8
       }
@@ -88,31 +73,19 @@
     "recipes": [
       {
         "recipe_name": "Turkish lamb chops",
-        "ingredients": ["lamb chops", "yogurt", "sumac", "mint", "lemon"],
+        "ingredients": "lamb chops, yogurt, sumac, mint, lemon .",
         "cooking_method": "1. Mix yogurt, sumac, chopped mint, and lemon juice in a bowl. 2. Marinate lamb chops in the mixture for at least 1 hour. 3. Grill the lamb chops over high heat until cooked to your liking. 4. Serve with extra sumac and mint on top.",
         "rating": 4.7
       },
       {
         "recipe_name": "Eggplant casserole",
-        "ingredients": [
-          "eggplant",
-          "ground beef",
-          "tomatoes",
-          "onion",
-          "garlic"
-        ],
+        "ingredients": "eggplant, ground beef, tomatoes, onion, garlic .",
         "cooking_method": "1. Cut eggplants into rounds and fry until golden brown. 2. Sauté finely chopped onion and garlic until soft. 3. Add ground beef and cook until browned. 4. Add chopped tomatoes and cook until the mixture thickens. 5. Layer the eggplant rounds and beef mixture in a baking dish. 6. Bake in the oven until heated through. 7. Serve hot with a dollop of yogurt on top.",
         "rating": 4.3
       },
       {
         "recipe_name": "Turkish stuffed peppers",
-        "ingredients": [
-          "bell peppers",
-          "ground beef",
-          "rice",
-          "tomato paste",
-          "spices"
-        ],
+        "ingredients": "bell peppers, ground beef, rice, tomato paste,spices .",
         "cooking_method": "1. Cut off the tops of the bell peppers and remove the seeds. 2. Cook rice according to package instructions. 3. Sauté ground beef with tomato paste and spices until browned. 4. Mix the cooked rice and beef mixture together. 5. Stuff the mixture into the bell peppers. 6. Bake in the oven until the peppers are soft and slightly charred. 7. Serve hot with a drizzle of olive oil.",
         "rating": 4.5
       }
@@ -130,31 +103,19 @@
     "recipes": [
       {
         "recipe_name": "Turkish spinach pie",
-        "ingredients": [
-          "spinach",
-          "feta cheese",
-          "phyllo pastry",
-          "eggs",
-          "butter"
-        ],
+        "ingredients": "spinach, feta cheese, phyllo pastry, eggs,butter .",
         "cooking_method": "1. Preheat the oven to 180°C. 2. Sauté spinach until wilted. 3. Mix the spinach with crumbled feta cheese and beaten eggs. 4. Layer phyllo pastry in a greased baking dish, brushing melted butter between each layer. 5. Pour the spinach and cheese mixture over the phyllo layers. 6. Fold the edges of the phyllo pastry over the filling. 7. Brush the top with more melted butter. 8. Bake in the oven until golden brown. 9. Serve hot or cold.",
         "rating": 4.8
       },
       {
         "recipe_name": "Turkish stuffed eggplants",
-        "ingredients": [
-          "eggplants",
-          "ground beef",
-          "tomatoes",
-          "onion",
-          "spices"
-        ],
+        "ingredients": "eggplants, ground beef, tomatoes, onion  spices .",
         "cooking_method": "1. Preheat the oven to 180°C. 2. Cut eggplants in half lengthwise and scoop out the flesh. 3. Sauté finely chopped onion until soft. 4. Add ground beef and cook until browned. 5. Add chopped tomatoes and spices and cook until the mixture thickens. 6. Stuff the eggplant halves with the beef mixture. 7. Bake in the oven until the eggplants are soft and the top is golden brown. 8. Serve hot with rice or bulgur.",
         "rating": 4.4
       },
       {
         "recipe_name": "Turkish red lentil soup",
-        "ingredients": ["red lentils", "onion", "carrot", "tomatoes", "spices"],
+        "ingredients": "red lentils, onion, carrot, tomatoes, spices .",
         "cooking_method": "1. Rinse lentils and cook in a pot with chopped onion, carrots, and tomatoes. 2. Add water or broth to cover the ingredients and bring to a boil. 3. Simmer until the lentils are soft and the vegetables are tender. 4. Blend the soup with an immersion blender or in a blender until smooth. 5. Season with spices such as cumin, paprika, and chili flakes. 6. Serve hot with a squeeze of lemon and crusty bread.",
         "rating": 4.7
       }
@@ -172,25 +133,19 @@
     "recipes": [
       {
         "recipe_name": "Turkish lamb stew with okra",
-        "ingredients": ["lamb meat", "okra", "tomatoes", "onion", "spices"],
+        "ingredients": "lamb meat, okra, tomatoes, onion, spices .",
         "cooking_method": "1. Cut lamb meat into bite-sized pieces and brown in a pot. 2. Add finely chopped onion and cook until soft. 3. Add chopped tomatoes and cook until the mixture thickens. 4. Add enough water or broth to cover the meat and bring to a boil. 5. Simmer until the meat is tender. 6. Add fresh or frozen okra and cook until tender. 7. Season with spices such as cinnamon, cumin, and coriander. 8. Serve hot with rice or bulgur.",
         "rating": 4.5
       },
       {
         "recipe_name": "Turkish zucchini fritters",
-        "ingredients": ["zucchini", "feta cheese", "flour", "eggs", "spices"],
+        "ingredients": "zucchini, feta cheese, flour, eggs, spices .",
         "cooking_method": "1. Grate zucchini and squeeze out the excess water. 2. Mix the zucchini with crumbled feta cheese, flour, beaten eggs, and spices. 3. Heat oil in a pan over medium-high heat. 4. Drop spoonfuls of the zucchini mixture into the hot oil and fry until golden brown on both sides. 5. Drain on paper towels. 6. Serve hot as a side dish or snack.",
         "rating": 4.2
       },
       {
         "recipe_name": "Turkish bulgur salad",
-        "ingredients": [
-          "bulgur",
-          "tomatoes",
-          "cucumber",
-          "parsley",
-          "lemon juice"
-        ],
+        "ingredients": "bulgur, tomatoes , cucumber , parsley , lemon juice .",
         "cooking_method": "1. Rinse bulgur and cook in boiling water until tender. 2. Drain and let cool. 3. Chop tomatoes, cucumber, and parsley and mix with the bulgur. 4. Season with salt, pepper, and lemon juice. 5. Serve cold as a salad or side dish.",
         "rating": 4.3
       }
@@ -208,37 +163,19 @@
     "recipes": [
       {
         "recipe_name": "Turkish meatballs with eggplant",
-        "ingredients": [
-          "ground beef",
-          "eggplant",
-          "breadcrumbs",
-          "onion",
-          "spices"
-        ],
+        "ingredients": "ground beef , eggplant, breadcrumbs, onion,spices .",
         "cooking_method": "1. Peel and dice the eggplant. 2. Salt and let it sit for 30 minutes to remove excess moisture. 3. Squeeze out the water from the eggplant and mix it with ground beef, breadcrumbs, finely chopped onion, and spices. 4. Form the mixture into meatballs. 5. Heat oil in a pan over medium-high heat. 6. Fry the meatballs until browned on all sides. 7. Serve hot with tomato sauce and rice.",
         "rating": 4.6
       },
       {
         "recipe_name": "Turkish stuffed peppers",
-        "ingredients": [
-          "bell peppers",
-          "ground lamb",
-          "rice",
-          "tomatoes",
-          "spices"
-        ],
+        "ingredients": "bell peppers, ground lamb, rice, tomatoes spices .",
         "cooking_method": "1. Cut off the tops of the bell peppers and remove the seeds. 2. In a bowl, mix ground lamb, cooked rice, finely chopped tomatoes, and spices. 3. Stuff the mixture into the peppers. 4. Place the stuffed peppers in a baking dish. 5. Pour some water into the dish. 6. Cover the dish with aluminum foil and bake in the oven at 350°F for 45 minutes. 7. Remove the foil and bake for another 15 minutes until the peppers are tender and the top is golden brown. 8. Serve hot as a main course.",
         "rating": 4.4
       },
       {
         "recipe_name": "Turkish spinach and feta borek",
-        "ingredients": [
-          "phyllo dough",
-          "spinach",
-          "feta cheese",
-          "eggs",
-          "butter"
-        ],
+        "ingredients": "phyllo dough,spinach,feta cheese,eggs,butter .",
         "cooking_method": "1. Cook spinach in a pan until wilted. 2. Squeeze out the excess water and chop it finely. 3. Mix the spinach with crumbled feta cheese, beaten eggs, and salt. 4. Preheat oven to 375°F. 5. Brush a baking dish with melted butter. 6. Layer phyllo dough sheets in the dish, brushing each layer with melted butter. 7. Spread the spinach mixture on top of the dough. 8. Cover with more phyllo dough sheets, brushing each layer with melted butter. 9. Cut the borek into pieces. 10. Bake in the oven for 30-35 minutes or until golden brown. 11. Serve hot as a snack or appetizer.",
         "rating": 4.2
       }
