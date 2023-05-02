@@ -4,19 +4,21 @@ const cors = require("cors");
 
 const port = process.env.PORT || 5000;
 
-const chef = require("./data/chef.json");
+const chefs = require("./data/chefs.json");
+
 app.use(cors());
+
 app.get("/", (req, res) => {
   res.send("chef-recipe is Running!");
 });
 
-app.get("/chef", (req, res) => {
-  res.send(chef);
+app.get("/chefs", (req, res) => {
+  res.send(chefs);
 });
 
-app.get("/chef/:id", (req, res) => {
+app.get("/chefs/:id", (req, res) => {
   const id = req.params.id;
-  const itemRecipe = chef.find((recipe) => recipe._id === id);
+  const itemRecipe = chefs.find((recipe) => recipe._id === id);
   res.send(itemRecipe);
 });
 
